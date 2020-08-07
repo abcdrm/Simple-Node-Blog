@@ -1,0 +1,35 @@
+.ck.ck-editor {
+    width: 100% !important;
+}
+
+.card-body{
+    background-color: rgb(255,255,255) !important;
+}
+
+.card-header{
+    background-color: rgb(255,255,255) !important;
+}
+
+.card-footer{
+    background-color: rgb(255,255,255) !important;
+}
+
+body {
+    background: url(../image/Login.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.ck {
+    border: none !important;
+}
+
+h1 {
+    margin-top: 0px !important;
+}
+
+#error {
+    display:none;
+}
